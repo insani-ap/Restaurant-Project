@@ -1,0 +1,21 @@
+id,capacity,name,status
+1,2,"Bar 1",Active
+2,4,"Bar 2",Active
+3,6,"Bar 3",Active
+4,8,"Bar 4",Broken
+5,10,"Bar 5",Repairing
+6,2,"Velvet 1",Active
+7,4,"Velvet 2",Active
+8,6,"Velvet 3",Active
+9,8,"Velvet 3",Broken
+10,10,"Velvet 5",Repairing
+11,2,"Smoke 1",Active
+12,4,"Smoke 2",Active
+13,6,"Smoke 3",Active
+14,8,"Smoke 4",Broken
+15,10,"Smoke 5",Repairing
+16,10,"Bucket 1",Active
+17,15,"Bucket 2",Active
+18,20,"Bucket 3",Active
+19,25,"Bucket 4",Broken
+20,30,"Bucket 5",Repairing
